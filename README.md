@@ -33,7 +33,6 @@ Passionate about **Data Science, Artificial Intelligence, and Industrial Enginee
 - Dashboard Development
 
 **Optimization & Industrial Engineering**
-- Gurobi
 - Mathematical Optimization
 - Aspen Plus
 
