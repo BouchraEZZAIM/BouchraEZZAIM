@@ -30,7 +30,6 @@
 - [Technical Skills](#️-technical-skills)
 - [Academic & Collaborative Projects](#-academic--collaborative-projects)
 - [GitHub Repositories](#-my-github-repositories)
-- [GitHub Statistics](#-github-statistics)
 - [Contact Me](#-contact-me)
 
 ---
@@ -141,18 +140,6 @@ My interests lie at the intersection of data, technology and industrial engineer
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BouchraEZZAIM&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouchraEZZAIM&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BouchraEZZAIM&theme=radical&hide_border=true" width="60%"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
@@ -160,7 +147,7 @@ My interests lie at the intersection of data, technology and industrial engineer
   <a href="https://www.linkedin.com/in/bouchra-ezzaim/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_UNIVERSITY_EMAIL">
+  <a href="mailto:Bouchra.Ezzaim@emines.um6p.ma">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
