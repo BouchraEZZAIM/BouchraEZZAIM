@@ -29,7 +29,6 @@
 - [Areas of Interest](#-areas-of-interest)
 - [Technical Skills](#️-technical-skills)
 - [Academic & Collaborative Projects](#-academic--collaborative-projects)
-- [GitHub Repositories](#-my-github-repositories)
 - [Contact Me](#-contact-me)
 
 ---
@@ -122,23 +121,6 @@ My interests lie at the intersection of data, technology and industrial engineer
 
 ---
 
-## 📂 My GitHub Repositories
-
-### Personal & Academic Repositories
-
-1. **[WECOP App](https://github.com/BouchraEZZAIM/wecopapp)**
-
-   AI-powered mobile application designed to support rural women artisans in showcasing and marketing their products.
-
-2. **[Statistical Reliability Project](https://github.com/BouchraEZZAIM/Projet-Statistique-Fiabilite)**
-
-   Statistical analysis and reliability engineering project.
-
-3. **[Free Kick Trajectory Analysis](https://github.com/BouchraEZZAIM/freekick-trajectory-analysis)**
-
-   Data analysis project focused on football free-kick trajectories.
-
----
 
 
 ## 📫 Contact Me
