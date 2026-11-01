@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Bouchra Ezzaim 👋
 
-<!--
-**BouchraEZZAIM/BouchraEZZAIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Industrial Management Engineering Student | Data Science & AI Enthusiast
 
-Here are some ideas to get you started:
+Passionate about **Data Science, Artificial Intelligence, and Industrial Engineering**, I enjoy transforming data into actionable insights and developing data-driven solutions to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Industrial Management Engineering Student at EMINES – UM6P, Morocco.
+
+### 🚀 Areas of Interest
+
+- Data Science & Machine Learning
+- Data Analytics & Business Intelligence
+- Predictive Modeling & Forecasting
+- Industrial Optimization
+- Artificial Intelligence
+
+### 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+- Python, SQL
+- Pandas, NumPy
+- Matplotlib, Seaborn
+
+**Machine Learning**
+- Scikit-learn
+- XGBoost, LightGBM
+- Random Forest
+- SHAP
+
+**Business Intelligence**
+- Power BI
+- Data Visualization
+- Dashboard Development
+
+**Optimization & Industrial Engineering**
+- Gurobi
+- Mathematical Optimization
+- Aspen Plus
+
+### 📌 Featured Projects
+
+- **Demand Forecasting & Stockout Prediction** – Machine Learning models for demand forecasting and stockout detection.
+- **Reliability Analysis** – Statistical analysis and reliability modeling.
+- **Business Intelligence** – Power BI dashboards for business performance analysis.
+- **Industrial Optimization** – Mathematical modeling and optimization using Python and Gurobi.
+- **WECOP** – AI-powered mobile application supporting rural women artisans.
+
+### 🤝 Let's Connect
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/bouchra-ezzaim-b5769925b)
+- Email: Bouchra.Ezzaim@emines.um6p.ma
+
+---
+
+⭐ *Always curious, always learning, always building.*
