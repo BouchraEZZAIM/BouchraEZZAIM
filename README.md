@@ -36,14 +36,6 @@ Passionate about **Data Science, Artificial Intelligence, and Industrial Enginee
 - Mathematical Optimization
 - Aspen Plus
 
-### 📌 Featured Projects
-
-- **Demand Forecasting & Stockout Prediction** – Machine Learning models for demand forecasting and stockout detection.
-- **Reliability Analysis** – Statistical analysis and reliability modeling.
-- **Business Intelligence** – Power BI dashboards for business performance analysis.
-- **Industrial Optimization** – Mathematical modeling and optimization using Python and Gurobi.
-- **WECOP** – AI-powered mobile application supporting rural women artisans.
-
 ### 🤝 Let's Connect
 
 - LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/bouchra-ezzaim-b5769925b)
