@@ -36,11 +36,4 @@ Passionate about **Data Science, Artificial Intelligence, and Industrial Enginee
 - Mathematical Optimization
 - Aspen Plus
 
-### 🤝 Let's Connect
-
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/bouchra-ezzaim-b5769925b)
-- Email: Bouchra.Ezzaim@emines.um6p.ma
-
----
-
 ⭐ *Always curious, always learning, always building.*
