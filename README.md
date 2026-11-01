@@ -116,18 +116,6 @@ I enjoy working with data to uncover meaningful insights, build predictive model
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BouchraEZZAIM&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouchraEZZAIM&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BouchraEZZAIM&theme=radical&hide_border=true" width="60%"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
